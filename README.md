@@ -21,3 +21,4 @@ Script and Final Data: https://drive.google.com/drive/u/0/folders/1dodtIsY07i0TI
 
 1. [Siamese Recurrent Architectures for Learning Sentence Similarity (2016)](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12195)
 2. Inspired from Tensorflow Implementation of  https://github.com/dhwajraj/deep-siamese-text-similarity
+3. Reference Article:https://cs224d.stanford.edu/reports/BalakrishnanDixit.pdf
